@@ -353,4 +353,5 @@
   <TalendProperties:ProjectReference xmi:id="_oOWM4kJkEeaO_dZ5ykU-5g" project="_oOWM4EJkEeaO_dZ5ykU-5g" branch="master" referencedBranch="master">
     <referencedProject href="../REFNEWTEST3/talend.project#projectReference"/>
   </TalendProperties:ProjectReference>
+  <TalendProperties:User xmi:id="_49jfsUJlEeaWQZ59qgyMTQ" login="user@user.com" firstName="user" lastName="user" type="DI" additionnalData="{}"/>
 </xmi:XMI>
