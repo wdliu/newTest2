@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_oOWM4EJkEeaO_dZ5ykU-5g" label="mainNewTest2" description="" language="java" technicalLabel="MAINNEWTEST2" creationDate="2016-07-05T10:27:24.013+0800" author="_oOWM4UJkEeaO_dZ5ykU-5g" referencedProjects="_oOWM4kJkEeaO_dZ5ykU-5g" productVersion="Talend Data Fabric-6.2.1.20160701_1456" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;git@github.com:wdliu/newTest2.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI"/>
+  <TalendProperties:User xmi:id="_oOWM4UJkEeaO_dZ5ykU-5g" login="admin@company.com" firstName="admin" lastName="admin" type="DI" additionnalData="{}"/>
+  <TalendProperties:ProjectReference xmi:id="_oOWM4kJkEeaO_dZ5ykU-5g" project="_oOWM4EJkEeaO_dZ5ykU-5g" branch="master" referencedBranch="master">
+    <referencedProject href="../REFNEWTEST3/talend.project#projectReference"/>
+  </TalendProperties:ProjectReference>
+</xmi:XMI>
